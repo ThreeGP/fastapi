@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone_number
+1,John,Doe,john.doe@example.com,555-1234
+2,Jane,Smith,jane.smith@example.com,555-5678
+3,Michael,Johnson,michael.johnson@example.com,555-8765
+4,Emily,Davis,emily.davis@example.com,555-4321
+5,David,Brown,david.brown@example.com,555-6789
+6,Laura,Williams,laura.williams@example.com,555-9876
+7,Daniel,Jones,daniel.jones@example.com,555-3456
+8,Sarah,Miller,sarah.miller@example.com,555-6543
+9,James,Wilson,james.wilson@example.com,555-7890
+10,Alice,Garcia,alice.garcia@example.com,555-0987
